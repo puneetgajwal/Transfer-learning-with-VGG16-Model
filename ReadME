@@ -1,0 +1,7 @@
+This repo contains 2 files
+1:CatVSDog_bottleneck_features.ipynb 
+  This file has bottleneck updation in a VGG16 model which was trained on ImageNet dataset
+2:CatVSDog_scratch.ipynb
+  This file contains model built from scratch.
+  
+Both the models are trained on GPU with just 2000 images.
